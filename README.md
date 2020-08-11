@@ -1,2 +1,2 @@
 # repo-test
-sample repository
+Sample repository
